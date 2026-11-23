@@ -1,0 +1,4 @@
+interface:
+  display_name: "DeeStride 脚踝基础问答"
+  short_description: "带可核对出处的脚踝复训基础问答，复杂情况整理后交给教练复核"
+  default_prompt: "使用 $deestride-ankle-qa 回答：崴脚后已经不疼了，回到球场前还要看哪些能力？"
